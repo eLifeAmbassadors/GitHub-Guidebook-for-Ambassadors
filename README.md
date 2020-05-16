@@ -28,10 +28,17 @@ The eLife Ambassadors GitHub organisation is a place where we can collect all co
 
 In this guide, you’ll find the basic guidelines for how we use and manage the eLife Ambassadors GitHub organisation.
 
-## Who can help me?
+## How can I find help to get started?
+
+Two training workshops will run in May 2020.
+
+Training workshop agenda and notes: _link to be added_
+Supporting documentation to support activities: https://github.com/eLifeAmbassadors/developing_collaborative_document
+
+## Who can help me participate in the eLife Ambassadors GitHub organisation?
 
 The admins of this organisation are:
-- Naomi @npscience, eLife
+- Naomi @npscience, eLife Community Manager
 - Lotte @lottedewinde, eLife Early-Career Advisory Group
 - Shyam @smsaladi, eLife Early-Career Advisory Group
 - Devang @devang-mehta, eLife Early-Career Advisory Group
@@ -39,7 +46,8 @@ The admins of this organisation are:
 - Vivek @vivekbhr, eLife Ambassador 
 
 *A governance structure, and clear roles, are TBD*
-eLife maintain this account in terms of billing
+
+eLife maintain this account's billing and should be primary contact for account issues and reports of violations of the [eLife Ambassadors Code of Conduct](https://elife.discourse.group/t/code-of-conduct/89) (available from the community's Discourse forum).
 
 ## What can I do here?
 
