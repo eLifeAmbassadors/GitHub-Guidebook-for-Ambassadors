@@ -34,7 +34,7 @@ eLife maintain this account in terms of billing
 ## What can I do here?
 
 ### Become a member
-Before you can contribute into this organisation, you need to apply to become a member. All eLife Ambassadors, Associates, and verified external contributors to Ambassador projects, can apply.
+Before you can contribute into this organisation, you need to apply to become a member. All eLife Ambassadors, Associates, and verified external contributors to Ambassador projects, can become a member.
 
 1. (If not already done) Sign up for a GitHub account: to use GitHub beyond browsing and clicking, you’ll need an account (which is free as in $¥€£ 0, see pricing) – you can sign up at https://github.com/join. 
 2. Apply to join this organisation by posting a reply to [this Issue thread](https://github.com/eLifeAmbassadors/GitHub-Guidebook-for-Ambassadors/issues/1) – you need to be signed into the GitHub account that you wish the invite to be sent to.
