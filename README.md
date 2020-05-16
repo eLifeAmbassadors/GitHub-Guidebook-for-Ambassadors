@@ -1,22 +1,32 @@
 # GitHub-Guidebook-for-Ambassadors
 Instructions and help for using the eLife Ambassadors GitHub organisation
 
-## Why use GitHub for eLife Ambassadors projects?
+## What is GitHub?
 
-GitHub is a useful tool to share your public outputs within a framework that is designed for online collaboration – this is particularly suitable for any projects which will continue beyond the eLife Ambassadors programme cohort(s).
+GitHub offers a way to collaborate on projects with a distributed team of people working online, or just work on projects by yourself!
 
-GitHub is designed for open source software and code and is also often used for non-code outputs – it is a really powerful project management tool once you’ve got started with it. With GitHub, you can easily make a free basic website for your project, and include fun things like emojis and GIFs in your homepage. 
+It's a useful platform to use to host your files and manage your collaborative work online.
 
-Here are some examples:
-* A Women in Science initiative https://github.com/malvikasharan/EMBL-Women-2019
-* A  web-based handbook https://github.com/alan-turing-institute/the-turing-way 
-* An R package https://github.com/weecology/portalr 
+GitHub was first designed for open source software development. GitHub is platform that is designed to work using git – git is a coding method for version control. You don't need to know or use git to use GitHub. 
+
+And you don't need to code to use GitHub. Many people use Github for working on non-code content, and that’s ok! It's a really powerful tool for project work.
+
+GitHub offers a nice user interface for working with git, and it adds some really handy features, from conversations in Issues, and a way to offer and receive suggested changes, and use peer review before suggestions are accepted.
+
+With GitHub, you can easily make a free basic website for your project, and include fun things like emojis and GIFs in your homepage. 
+
+Here are some examples of GitHub being used for projects about collaboration, openness, diversity and inclusion in the life sciences:
+* A Women in Science initiative: https://github.com/malvikasharan/EMBL-Women-2019
+* A  web-based handbook for reproducible data science: https://github.com/alan-turing-institute/the-turing-way 
+* An R package for data analysis: https://github.com/weecology/portalr 
 
 ## About the eLifeAmbassadors GitHub organisation
 
 The eLife Ambassadors have a non-profit account on GitHub, which means we can host a repository for you within this eLifeAmbassadors organisation (homepage: https://github.com/eLifeAmbassadors) and you can maintain public and private repositories for free.
 
-Keeping your project in this organisation will help your work be discoverable to others – we'll need only to point people to this GitHub and they'll see all your projects in one place.
+The eLife Ambassadors GitHub organisation is a place where we can collect all content that eLife Ambassadors wish to share with Ambassadors and others outside the programme using GitHub. This helps everyone to find things and keep things tidy: Keeping your project in this organisation will help your work be discoverable to others – we'll need only to point people to this GitHub and they'll see all your projects in one place. Members of the organisation (i.e. other ambassadors and any collaborators) can view private repositories. Anyone on the internet can view public repositories.
+
+In this guide, you’ll find the basic guidelines for how we use and manage the eLife Ambassadors GitHub organisation.
 
 ## Who can help me?
 
